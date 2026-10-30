@@ -1,0 +1,29 @@
+{
+  "network": "signet",
+  "protocol_version": 3,
+  "activation_height": null,
+  "ticket_public_key": "",
+  "fee_address": "",
+  "supply": 5000,
+  "free_supply": 1000,
+  "paid_supply": 4000,
+  "protocol_fee": 3250,
+  "wallet_limit": 1,
+  "ip_limit": 1,
+  "postage": 330,
+  "confirmations": 1,
+  "database": "public-index-signet.sqlite3",
+  "sync_interval_seconds": 30,
+  "max_blocks_per_sync": 10,
+  "provider_budget_per_hour": 650,
+  "provider_burst": 20,
+  "provider_check_ttl_seconds": 600,
+  "provider_cooldown_seconds": 900,
+  "mempool_url": "https://mempool.space/signet/api",
+  "mempool_backup_urls": [
+    "https://blockstream.info/signet/api"
+  ],
+  "mempool_rpc_url": "",
+  "mempool_rpc_budget_per_hour": 1500,
+  "mempool_rpc_burst": 15
+}

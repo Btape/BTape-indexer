@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/BruceLanLan/utxo-circuits",
+  "commit": "19260366f1807109cfa3c40e35ce3b79eaaf268e",
+  "spec_version": "0.1",
+  "metaprotocol": "uco/0",
+  "spec_sha256": "1dd1b86a0795205c9f9ce421199a395c6882bc550e04532fadce93b2698fb6f3",
+  "files": {
+    "__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "objects.py": "4f4d6fdb8c491c0cfa063cc27c87551da6475cc6a02ed333e79ab6fa492f9a97",
+    "tap02.py": "8782f68fc6672449f64ac9e1d64ac564e62b7a0c61deb151219514205a20c36c",
+    "btc.py": "0e60ac0d831d167a7135564155adc6083bfb89592f4d0d066b0f442f6e70c643",
+    "taproot.py": "289f9eaddc770d5c204db2cd936355475373bc6af236399471558e2f7b198e5c",
+    "cbor.py": "e2e846a4d6e41080626ae9dd3e5bf96e4aaf6c0fd4ac8ee5887fe06df6aea34f",
+    "envelope.py": "f701287194c29e465089d837ab4389a93ba38687410b8d7b15d75354454fe758"
+  },
+  "production_approved": false
+}
